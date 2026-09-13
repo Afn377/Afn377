@@ -41,7 +41,7 @@ A pipeline that forecasts Champions League results using top-five-league and UCL
 
 ---
 
-### 🪽 Hermes
+### 🪽 AgentOS
 An orchestration setup that splits AI coding work between models based on what each one is good at. Claude Sonnet handles planning and writing instructions, DeepSeek V4 Pro does the actual code generation as a subagent over MCP. The point is keeping output quality high without paying frontier-model prices for every token.
 
 `Claude Code` `MCP` `DeepSeek` `Qwen`
