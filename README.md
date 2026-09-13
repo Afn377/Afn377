@@ -17,6 +17,13 @@ Most of what I build is some mix of machine learning and web work. I like proble
 
 ---
 
+## Get in touch
+
+- **Email:** [smafnanhaider@gmail.com](mailto:smafnanhaider@gmail.com)
+- **LinkedIn:** [linkedin.com/in/AfnanHaider](https://linkedin.com/in/AfnanHaider)
+
+---
+
 ## Projects
 
 ### 🎓 ProfIQ
@@ -41,7 +48,7 @@ A pipeline that forecasts Champions League results using top-five-league and UCL
 
 ---
 
-### 🪽 AgentOS
+### 🪽 Hermes
 An orchestration setup that splits AI coding work between models based on what each one is good at. Claude Sonnet handles planning and writing instructions, DeepSeek V4 Pro does the actual code generation as a subagent over MCP. The point is keeping output quality high without paying frontier-model prices for every token.
 
 `Claude Code` `MCP` `DeepSeek` `Qwen`
@@ -61,13 +68,6 @@ A system that suggests likely fixes for email-generated ServiceNow tickets by se
 **ML / Data** · PyTorch, scikit-learn, XGBoost, Hugging Face, pandas
 **Web** · Django, React, PostgreSQL
 **Other** · Git, Docker, MCP
-
----
-
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/AfnanHaider)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smafnanhaider@gmail.com)
 
 ---
 
