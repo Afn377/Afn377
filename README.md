@@ -70,9 +70,3 @@ A system that suggests likely fixes for email-generated ServiceNow tickets by se
 **Other** · Git, Docker, MCP
 
 ---
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Afn377&show_icons=true&hide_border=true&theme=default)
-
-</div>
