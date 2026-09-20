@@ -19,7 +19,7 @@ Most of what I build is some mix of machine learning and web work. I like proble
 
 ## Get in touch
 
-- **Email:** [smafnanhaider@gmail.com](mailto:smafnanhaider@gmail.com)
+- **Email:** [sm.afnan.haider@gmail.com](mailto:sm.afnan.haider@gmail.com)
 - **Portfolio:** [smafnanhaider.com](https://smafnanhaider.com) · [Resume (PDF)](https://smafnanhaider.com/resume.pdf)
 - **LinkedIn:** [linkedin.com/in/AfnanHaider](https://linkedin.com/in/AfnanHaider)
 
