@@ -11,7 +11,7 @@ Most of what I build is some mix of machine learning and web work. I like proble
 ## What I'm up to
 
 - **Lab Supervisor** at Rutgers Office of Information Technology, since Sept 2024
-- **Student Community Manager** at the Rutgers Coding and Social Lounge, since Aug 2026
+- **Student Community Manager** at the Rutgers Coding and Social Lounge, since June 2026
 - **Part-Time Lecturer** for Data Science in the Rutgers CS Department, Sept 2025 to May 2026
 - Building retrieval-based tooling to help IT staff resolve tickets faster
 
