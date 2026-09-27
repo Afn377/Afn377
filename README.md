@@ -19,7 +19,7 @@ Most of what I build is some mix of machine learning and web work. I like proble
 
 ## Get in touch
 
-- **Email:** [sm.afnan.haider@gmail.com](mailto:sm.afnan.haider@gmail.com)
+- **Email:** [smafnanhaider@gmail.com](mailto:smafnanhaider@gmail.com)
 - **Portfolio:** [smafnanhaider.com](https://smafnanhaider.com) · [Resume (PDF)](https://smafnanhaider.com/resume.pdf)
 - **LinkedIn:** [linkedin.com/in/AfnanHaider](https://linkedin.com/in/AfnanHaider)
 
@@ -42,7 +42,7 @@ A tool for searching and comparing professors using review sentiment, recurring 
 
 - Resumable ETL pipeline over the RateMyProfessors GraphQL API, handling pagination, checkpointing, and deduplication across **1.7M+ professor records**
 - Sentiment scoring on **350K+ student reviews** with a VADER rule engine and a TF-IDF / logistic-regression classifier (**80.2% accuracy**); DistilBERT was evaluated offline only
-- Similar-professor recommendations built from MiniLM embeddings of review text (**4.17x** department-purity lift over random)
+- Similar-professor recommendations built from MiniLM embeddings of review text (top-5 matches share a department **~7x** more often than random)
 
 `Python` `Django` `React` `PostgreSQL` `PyTorch` `scikit-learn` `Hugging Face`
 
